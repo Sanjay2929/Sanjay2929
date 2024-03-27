@@ -1,4 +1,4 @@
-![MasterHead](<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-photo/medium-shot-woman-working-laptop_40728383.htm#fromView=search&page=1&position=20&uuid=b89e6848-8dbf-47db-88d9-0e9e69f3c7e4">)
+<img align="right" alt="Coding" width="1000" src="https://www.freepik.com/free-photo/medium-shot-woman-working-laptop_40728383.htm#fromView=search&page=1&position=20&uuid=b89e6848-8dbf-47db-88d9-0e9e69f3c7e4">
 <h1 align="center">Hi 👋, I'm Sanjay Jyani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
