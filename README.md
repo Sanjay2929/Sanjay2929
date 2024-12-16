@@ -4,11 +4,11 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshujangra33233&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshujangra33233" /> </p> -->
 
 
-- 🔭 I'm currently working on **NextJs Projects**
+- 🔭 I'm currently working on **NuxtJs Projects**
 
-- 🌱 I'm currently learning **NextJs, NodeJs**
+- 🌱 I'm currently learning **NuxtJs, NodeJs**
 
-- 💬 Ask me about **Css,Js,RectJs**
+- 💬 Ask me about **Css,Js,RectJs,Nextjs**
 
 - 📫 How to reach me **Sanjayjyani220@gmail.com**
 
